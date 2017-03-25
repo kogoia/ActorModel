@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\ActorModelSamples\AkkaSamples\bin\Debug\AkkaSamples.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\ActorModelSamples\AkkaSamples\bin\Debug\AkkaSamples.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\ActorModelSamples\AkkaSamples\bin\Debug\AkkaSamples.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\ActorModelSamples\AkkaSamples\bin\Debug\Akka.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ActorModelSamples\AkkaSamples\bin\Debug\Akka.Serialization.Hyperion.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ActorModelSamples\AkkaSamples\bin\Debug\Hyperion.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ActorModelSamples\AkkaSamples\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ActorModelSamples\AkkaSamples\bin\Debug\Akka.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\ActorModelSamples\AkkaSamples\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\ActorModelSamples\AkkaSamples\obj\Debug\AkkaSamples.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\ActorModelSamples\AkkaSamples\obj\Debug\AkkaSamples.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\ActorModelSamples\AkkaSamples\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ActorModelSamples\AkkaSamples\bin\Debug\Newtonsoft.Json.xml
