@@ -11,3 +11,4 @@ C:\Users\User\Documents\Visual Studio 2017\Projects\ActorModelSamples\AkkaSample
 C:\Users\User\Documents\Visual Studio 2017\Projects\ActorModelSamples\AkkaSamples\obj\Debug\AkkaSamples.pdb
 C:\Users\User\Documents\Visual Studio 2017\Projects\ActorModelSamples\AkkaSamples\bin\Debug\Newtonsoft.Json.dll
 C:\Users\User\Documents\Visual Studio 2017\Projects\ActorModelSamples\AkkaSamples\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\ActorModelSamples\AkkaSamples\obj\Debug\AkkaSamples.csprojResolveAssemblyReference.cache

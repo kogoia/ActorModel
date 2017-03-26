@@ -30,7 +30,11 @@ namespace AkkaSamples
         public MainActor()
         {
             Receive<Greet>(greet =>
-                Console.WriteLine("Hello {0}", greet.Who));
+            {
+                Context.ActorOf<GreetingActor>().Tell(new Greet("kogoia"));
+                Console.WriteLine("Hello {0}", greet.Who);
+            });
+            
         }
     }
 
@@ -50,6 +54,8 @@ namespace AkkaSamples
             // Send a message to the actor
             greeter.Tell(new Greet("World"));
 
+            var greeter2 = system.ActorOf<MainActor>("greeter2");
+            greeter2.Tell(new Greet("World3"));
             // This prevents the app from exiting
             // before the async work is done
             Console.ReadLine();
